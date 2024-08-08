@@ -32,20 +32,21 @@ this project aims to provide a more accurate, efficient, and scalable solution f
 
 - Python 3.8 or higher
 - Pip (Python package installer)
-- Supervison
-- Ultralytics
-- Opencv
+- Supervison Library
+- Ultralytics Library
+- Opencv Library
 
 ### Installation Steps
 
 **Clone the Repository**
 
-git clone https://github.com/Milad0310/Traffic-Monitoring-YOLOv8-and-ByteTrack.git
+git clone '''https://github.com/Milad0310/Traffic-Monitoring-YOLOv8-and-ByteTrack.git'''
+
 cd traffic-monitoring-yolo-v8-bytetrack
 
 pip install -r requirements.txt 
 
 **Acknowledgements**
 
-YOLOv8: Ultralytics YOLOv8 for advanced object detection.
-ByteTrack: ByteTrack for robust multi-object tracking.
+-YOLOv8: Ultralytics YOLOv8 for advanced object detection.
+-ByteTrack: ByteTrack for robust multi-object tracking.
