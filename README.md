@@ -1,4 +1,5 @@
 # Traffic Monitoring with YOLOv8 and ByteTrack
+![](demo/output.gif)
 
 ## Project Overview
 
@@ -40,13 +41,14 @@ this project aims to provide a more accurate, efficient, and scalable solution f
 
 **Clone the Repository**
 
-git clone '''https://github.com/Milad0310/Traffic-Monitoring-YOLOv8-and-ByteTrack.git'''
+   ```bash
+git clone https://github.com/Milad0310/Traffic-Monitoring-YOLOv8-and-ByteTrack.git
+   ```
 
+ ```bash
 cd traffic-monitoring-yolo-v8-bytetrack
+   ```
 
+```bash
 pip install -r requirements.txt 
-
-**Acknowledgements**
-
--YOLOv8: Ultralytics YOLOv8 for advanced object detection.
--ByteTrack: ByteTrack for robust multi-object tracking.
+   ```
