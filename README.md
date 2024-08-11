@@ -1,5 +1,5 @@
 # Traffic Monitoring with YOLOv8 and ByteTrack
-![](demo/output.gif)
+![](output/output.gif)
 
 ## Project Overview
 
